@@ -1,4 +1,6 @@
 {
-  "host": "netflix-genres-api-app.feathersjs.com",
-  "port": "PORT"
+  "host": "HOST",
+  "port": "PORT",
+  "public": "../public/",
+  "mongodb": "MONGO_URL"
 }
